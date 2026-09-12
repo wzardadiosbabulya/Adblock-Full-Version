@@ -236,3 +236,6 @@ This repository serves as the official landing page for Adblock Plus for Firefox
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Adblock Plus for Firefox today!**
+
+---
+**Last updated:** 2026-09-12 21:09:18 UTC
