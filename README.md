@@ -238,4 +238,4 @@ This repository serves as the official landing page for Adblock Plus for Firefox
 **Get the most recent version of Adblock Plus for Firefox today!**
 
 ---
-**Last updated:** 2026-09-24 22:57:16 UTC
+**Last updated:** 2026-09-25 01:11:28 UTC
